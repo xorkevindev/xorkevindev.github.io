@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019</copyright>
-    <lastBuildDate>Sat, 27 Jul 2019 00:51:56 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2019 10:55:49 -0700</lastBuildDate>
     
 	<atom:link href="https://xorkevin.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wordpack</title>
+      <link>https://xorkevin.dev/wordpack.html</link>
+      <pubDate>Sat, 27 Jul 2019 10:55:49 -0700</pubDate>
+      
+      <guid>https://xorkevin.dev/wordpack.html</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Forge</title>
