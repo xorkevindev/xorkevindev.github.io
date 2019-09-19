@@ -5,7 +5,6 @@
   <url>
     <loc>https://xorkevin.dev/gomod.html</loc>
     <lastmod>2019-07-27T10:55:49-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -16,7 +15,6 @@
   <url>
     <loc>https://xorkevin.dev/</loc>
     <lastmod>2019-07-27T10:55:49-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -41,12 +39,10 @@
   
   <url>
     <loc>https://xorkevin.dev/categories.html</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://xorkevin.dev/tags.html</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
