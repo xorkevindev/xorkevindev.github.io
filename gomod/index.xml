@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019</copyright>
-    <lastBuildDate>Sun, 11 Sep 2022 23:39:40 -0700</lastBuildDate><atom:link href="https://xorkevin.dev/gomod/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Mar 2023 00:26:18 -0700</lastBuildDate><atom:link href="https://xorkevin.dev/gomod/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kfs</title>
+      <link>https://xorkevin.dev/kfs.html</link>
+      <pubDate>Tue, 28 Mar 2023 00:26:18 -0700</pubDate>
+      
+      <guid>https://xorkevin.dev/kfs.html</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Klog</title>
       <link>https://xorkevin.dev/klog.html</link>
