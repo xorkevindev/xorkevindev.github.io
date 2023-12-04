@@ -7,123 +7,105 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019</copyright>
-    <lastBuildDate>Tue, 28 Mar 2023 00:26:18 -0700</lastBuildDate><atom:link href="https://xorkevin.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Dec 2023 17:24:44 -0800</lastBuildDate>
+    <atom:link href="https://xorkevin.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bitcensus</title>
+      <link>https://xorkevin.dev/bitcensus.html</link>
+      <pubDate>Sun, 03 Dec 2023 17:24:44 -0800</pubDate>
+      <guid>https://xorkevin.dev/bitcensus.html</guid>
+      <description></description>
+    </item>
     <item>
       <title>Kfs</title>
       <link>https://xorkevin.dev/kfs.html</link>
       <pubDate>Tue, 28 Mar 2023 00:26:18 -0700</pubDate>
-      
       <guid>https://xorkevin.dev/kfs.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Klog</title>
       <link>https://xorkevin.dev/klog.html</link>
       <pubDate>Sun, 11 Sep 2022 23:39:40 -0700</pubDate>
-      
       <guid>https://xorkevin.dev/klog.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Kerrors</title>
       <link>https://xorkevin.dev/kerrors.html</link>
       <pubDate>Sat, 20 Aug 2022 18:49:51 -0700</pubDate>
-      
       <guid>https://xorkevin.dev/kerrors.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Fsserve</title>
       <link>https://xorkevin.dev/fsserve.html</link>
       <pubDate>Sat, 22 Jan 2022 18:12:47 -0800</pubDate>
-      
       <guid>https://xorkevin.dev/fsserve.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mailcat</title>
       <link>https://xorkevin.dev/mailcat.html</link>
       <pubDate>Fri, 19 Nov 2021 02:45:27 -0800</pubDate>
-      
       <guid>https://xorkevin.dev/mailcat.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Anvil</title>
       <link>https://xorkevin.dev/anvil.html</link>
       <pubDate>Sun, 09 May 2021 18:02:36 -0700</pubDate>
-      
       <guid>https://xorkevin.dev/anvil.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Gnom</title>
       <link>https://xorkevin.dev/gnom.html</link>
       <pubDate>Sat, 19 Dec 2020 21:56:09 -0800</pubDate>
-      
       <guid>https://xorkevin.dev/gnom.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Interchange</title>
       <link>https://xorkevin.dev/interchange.html</link>
       <pubDate>Mon, 25 May 2020 17:35:24 -0700</pubDate>
-      
       <guid>https://xorkevin.dev/interchange.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Wordpack</title>
       <link>https://xorkevin.dev/wordpack.html</link>
       <pubDate>Sat, 27 Jul 2019 10:55:49 -0700</pubDate>
-      
       <guid>https://xorkevin.dev/wordpack.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Forge</title>
       <link>https://xorkevin.dev/forge.html</link>
       <pubDate>Sat, 27 Jul 2019 00:51:56 -0700</pubDate>
-      
       <guid>https://xorkevin.dev/forge.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Nutcracker</title>
       <link>https://xorkevin.dev/nutcracker.html</link>
       <pubDate>Sat, 27 Jul 2019 00:51:20 -0700</pubDate>
-      
       <guid>https://xorkevin.dev/nutcracker.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hunter2</title>
       <link>https://xorkevin.dev/hunter2.html</link>
       <pubDate>Thu, 25 Jul 2019 22:06:12 -0700</pubDate>
-      
       <guid>https://xorkevin.dev/hunter2.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Governor</title>
       <link>https://xorkevin.dev/governor.html</link>
       <pubDate>Wed, 24 Jul 2019 22:28:53 -0700</pubDate>
-      
       <guid>https://xorkevin.dev/governor.html</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
