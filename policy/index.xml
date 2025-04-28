@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Policy on xorkevin.dev</title>
+    <link>https://xorkevin.dev/policy.html</link>
+    <description>Recent content in Policy on xorkevin.dev</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>2019</copyright>
+    <lastBuildDate>Mon, 28 Apr 2025 00:51:45 -0700</lastBuildDate>
+    <atom:link href="https://xorkevin.dev/policy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multitool Privacy Policy</title>
+      <link>https://xorkevin.dev/policy/multitool-privacy-policy.html</link>
+      <pubDate>Mon, 28 Apr 2025 00:51:45 -0700</pubDate>
+      <guid>https://xorkevin.dev/policy/multitool-privacy-policy.html</guid>
+      <description>&lt;h3 id=&#34;multitool&#34;&gt;Multitool&lt;/h3&gt;&#xA;&lt;p&gt;A programmer&amp;rsquo;s toolkit&lt;/p&gt;&#xA;&lt;h2 id=&#34;privacy-policy&#34;&gt;Privacy policy&lt;/h2&gt;&#xA;&lt;p&gt;Multitool does not collect any data from your device.&lt;/p&gt;&#xA;&lt;p&gt;If you believe this policy has been violated, please &lt;a href=&#34;https://github.com/xorkevin/multitool/issues&#34;&gt;let us know&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
